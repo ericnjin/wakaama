@@ -28,7 +28,7 @@
  *  Max Message Size     |  4 |   R   | Single|  No  | Integer |       | Byte  |            |
  *  Average Message Size |  5 |   R   | Single|  No  | Integer |       | Byte  |            |
  *  StartOrReset         |  6 |   E   | Single|  Yes | Integer |       |       |            |
- */
+ */p
 
 #include "liblwm2m.h"
 
